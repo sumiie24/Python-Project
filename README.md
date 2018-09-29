@@ -27,10 +27,10 @@ The Project is based on Python language.
         <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/splash.png" />
 
 *   second screen
-        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/DeveloperDetail.PNG" />
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/developerdetail.PNG" />
 
 *   third screen
-        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/Welcome.PNG" />
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/welcome.PNG" />
 
 *   shooping
         <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/shopping.PNG" />
