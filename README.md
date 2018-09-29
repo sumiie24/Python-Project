@@ -6,9 +6,8 @@ The Project is based on Python language.
 
     ```
     $git clone https://github.com/sumiie24/Sumex-Plaza
-    
     ```
-2. Open "Files" folder
+2. Open folder named "Files".
 3. First open file named <strong>"SPLASH.py"</strong>.
 
     ```Note```: If file did not get run. Try installing python software and then run again. 
