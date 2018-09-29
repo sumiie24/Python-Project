@@ -1,9 +1,7 @@
 # Sumex Plaza : Python
 The Project is based on Python language.
 
-* First read file named <strong>"Documentation"</strong> to know working of the project.
-
-To view the project-
+## To view the project-
 1. Clone all the files in a folder.
 
     ```
@@ -12,7 +10,9 @@ To view the project-
     ```
 2. Open "Files" folder
 3. First open file named <strong>"SPLASH.py"</strong>.
- ```Note```: If file did not get run try installing python software and then run again. Read "Documentation" file for further use.
+
+    ```Note```: If file did not get run try installing python software and then run again. 
+                Read file named <strong>"Documentation"</strong> to know working of the project.
 
 
 ## Feature
@@ -24,8 +24,37 @@ To view the project-
 
 ## Screenshots 
 
-<img src="https://drive.google.com/open?id=1LG27Cwl-mJ8nVpQiRCfR-U7iOelDmCGK" />
+*   first screen. It will go off after 5 sec.
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/splash.png" />
 
+*   second screen
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/DeveloperDetail.PNG" />
+
+*   third screen
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/Welcome.PNG" />
+
+*   shooping
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/shopping.PNG" />
+*   shooping items
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/mens.PNG" />
+
+*   restaurant
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/restaurant.PNG" />
+*   restaurant item
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/western.PNG" />
+
+*   cinema
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/cinema.PNG" />
+*   movie ticket
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/thor.PNG" />
+
+*   Sign up
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/Sign%20up.PNG" />
+        
+*   Sign in
+        <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/signin.PNG" />
+
+        
 
 
 ## Updation
