@@ -1,7 +1,7 @@
 # Sumex Plaza : Python based project 
 The Project is based on Python language.
 
-## To view the project-
+## To view the project
 1. Clone all the files in a folder.
 
     ```
