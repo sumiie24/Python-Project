@@ -1,4 +1,4 @@
-# Sumex Plaza : Python
+# Sumex Plaza : Python based project 
 The Project is based on Python language.
 
 ## To view the project-
@@ -11,13 +11,13 @@ The Project is based on Python language.
 2. Open "Files" folder
 3. First open file named <strong>"SPLASH.py"</strong>.
 
-    ```Note```: If file did not get run try installing python software and then run again. 
+    ```Note```: If file did not get run. Try installing python software and then run again. 
                 Read file named <strong>"Documentation"</strong> to know working of the project.
 
 
 ## Feature
 * It calculate the shopping bill, restaurant bill and movie bill as selected by the user.
-* User can create account and can do sign in.
+* User can create account(sign up) and can do sign in.
 * Nice Interface to User.
 
 
@@ -48,10 +48,10 @@ The Project is based on Python language.
 *   movie ticket
         <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/thor.PNG" />
 
-*   Sign up
+*   sign up
         <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/Sign%20up.PNG" />
         
-*   Sign in
+*   sign in
         <img src="https://github.com/sumiie24/Sumex-Plaza/blob/master/images/signin.PNG" />
 
         
