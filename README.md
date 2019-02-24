@@ -71,6 +71,6 @@ The Project is based on Python language.
 ## Author
 <ul>
   <strong>
-  <li><a href="https://www.linkedin.com/in/sumiie24/" target="_blank">Sumit Yadav</a></li>
+  <li><a href="https://www.linkedin.com/in/sumiie24/a" target="_blank">Sumit Yadav</a></li>
   </strong>
 </ul>
